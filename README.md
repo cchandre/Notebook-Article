@@ -9,3 +9,6 @@ It is also possible to open, modify and run this notebook on mybinder.org by cli
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cchandre/Notebook-Article/master)
 
 Jupyter et al., "Binder 2.0 - Reproducible, Interactive, Sharable Environments for Science at Scale." Proceedings of the 17th Python in Science Conference. 2018. doi://10.25080/Majora-4af1f417-011
+
+
+A viewpoint on notebook articles has been published in [Communications in Nonlinear Science and Numerical Simulation](https://doi.org/10.1016/j.cnsns.2021.105753) (2021). 
