@@ -12,3 +12,17 @@ Jupyter et al., "Binder 2.0 - Reproducible, Interactive, Sharable Environments f
 
 
 A viewpoint on notebook articles has been published in [Communications in Nonlinear Science and Numerical Simulation](https://doi.org/10.1016/j.cnsns.2021.105753) (2021). 
+
+```bibtex
+@article{CHANDRE2021105753,
+  title = {Notebook articles: Towards a transformative publishing experience in nonlinear science},
+  journal = {Communications in Nonlinear Science and Numerical Simulation},
+  volume = {97},
+  pages = {105753},
+  year = {2021},
+  issn = {1007-5704},
+  doi = {https://doi.org/10.1016/j.cnsns.2021.105753},
+  url = {https://www.sciencedirect.com/science/article/pii/S1007570421000642},
+  author = {Cristel Chandre and Jonathan Dubois}
+}
+```
